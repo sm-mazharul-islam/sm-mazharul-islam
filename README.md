@@ -50,7 +50,7 @@
 
 
 
-<img src="https://git-hub-streak-stats.vercel.app?user=sm-mazharul-islam&theme=gotham&hide_border=true" alt="sm-mazharul-islam" height="150"/>
+<img src="https://streak-stats.vercel.app?user=sm-mazharul-islam&theme=gotham&hide_border=true" alt="sm-mazharul-islam" height="150"/>
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-mazharul-islam&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="sm-mazharul-islam" width="400px" height="200" />
 </div>
