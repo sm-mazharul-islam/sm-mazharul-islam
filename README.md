@@ -48,11 +48,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sm-mazharul-islam&show_icons=true&theme=gotham&hide_border=true" height="150"/>
+<img src="https://github-profile-metrics-two.vercel.app/api/stats" height="200"/>
 
-<img src="https://streak-stats.demolab.com?user=sm-mazharul-islam&theme=gotham&hide_border=true" height="150"/>
+<img src="https://github-profile-metrics-two.vercel.app/api/langs" height="200"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-mazharul-islam&layout=compact&theme=gotham&hide_border=true" width="400"/>
+<img src="https://github-profile-metrics-two.vercel.app/api/streak" height="200"/>
 
 </div>
 
