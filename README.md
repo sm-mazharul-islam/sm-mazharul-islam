@@ -1,7 +1,7 @@
-
-
-
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sm-mazharul-islam&label=PROFILE+VIEWS&color=00e5ff&style=flat-square" alt="Visitor Counter" />
+  <br />
+</p>
  
 ![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/b5bbaf8a-f3d9-481c-9a20-a2a1d0b50edd)
 
@@ -21,6 +21,7 @@
 ### - 👯 I’m looking to collaborate on Github
 ### - 💬 Ask me about Web Developer
 ### - 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
+
 
 <br/>
 
@@ -46,14 +47,22 @@
 
 
 
-<div align="center">
 
-<img src="https://github-profile-metrics-two.vercel.app/api/stats" height="200"/>
+<!-- <img src="https://github-profile-metrics-two.vercel.app/api/stats" height="200"/>
 
 <img src="https://github-profile-metrics-two.vercel.app/api/langs" height="200"/>
 
 <img src="https://github-profile-metrics-two.vercel.app/api/streak" height="200"/>
-
+<img src="https://github-profile-metrics-two.vercel.app/api/graph?v=1.0.2" height="200"/> -->
+<div align="center">
+  <p align="center">
+    <img src="https://github-profile-metrics-two.vercel.app/api/stats?v=2.0.1" height="200" />
+    <img src="https://github-profile-metrics-two.vercel.app/api/streak?v=2.0.1" height="200" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-metrics-two.vercel.app/api/langs?v=2.0.1" height="200" />
+    <img src="https://github-profile-metrics-two.vercel.app/api/graph?v=2.0.1" width="400" />
+  </p>
 </div>
 
  
