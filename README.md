@@ -1,9 +1,20 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sm-mazharul-islam&label=PROFILE+VIEWS&color=00e5ff&style=flat-square" alt="Visitor Counter" />
-  <br />
-</p>
+
+
+
+<a href="https://github.com/sm-mazharul-islam">
+  <img src="https://komarev.com/ghpvc/?username=sm-mazharul-islam&label=Profile+Views&style=for-the-badge&color=06b6d4" align="left" />
+</a>
+
+
+
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:06b6d4&text=S.M%20Mazharul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20•%20smmazharulislam26@gmail.com&descAlignY=58"/>
+
+</div>
  
-![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/b5bbaf8a-f3d9-481c-9a20-a2a1d0b50edd)
 
 
 
@@ -16,11 +27,15 @@
 <br/>
 
  
-### - 🔭 I’m currently working on this page.
-### - 🌱 I’m currently learning Javascript
-### - 👯 I’m looking to collaborate on Github
-### - 💬 Ask me about Web Developer
-### - 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
+<h2 align="left">🚀 About Me</h2>
+
+<ul>
+  <li>💻 Passionate about modern Web Development</li>
+  <li>🌱 Currently learning JavaScript, Next.js & Backend Development</li>
+  <li>🤝 Open to collaboration on GitHub projects</li>
+  <li>⚡ Focused on responsive UI and scalable applications</li>
+  <li>📫 Email: <b>smmazharulislam26@gmail.com</b></li>
+</ul>
 
 
 <br/>
@@ -68,30 +83,31 @@
  
 
 
-###
 
 
-<div align="left">
-    
-### Connect with me :
+
+
+
+
+## 📫 Reach Me
+
+<div align="center">
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:smmazharulislam26@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sm-mazharul-islam)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sm-mazharul-islam-masum/)
 
 </div>
 
----
 
-###
 
-<a href="https://github.com/sm-mazharul-islam?tab=followers"><img align="right" style="width: 150;" src="https://img.shields.io/github/followers/sm-mazharul-islam?label=Followers&style=social" alt="GitHub Badge"></a>
+<div align="center">
 
-###
 
-<div align="left">
+✨ Always excited to connect, collaborate, and learn new technologies.
 
-<a href = "https://www.linkedin.com/in/sm-mazharul-islam-masum/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://faceboook.com/sm.mazharul.islam.2"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://twitter.com/SM_Mazharul_1"><img src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/9fbb2034-4689-4e51-8213-3e672aad23be"/></a>
-<a href = ""><img src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/9b5d9583-0bdf-4915-b31f-f1d6afc122ce"/></a>
 </div>
 
 
 ###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:06b6d4"/>
