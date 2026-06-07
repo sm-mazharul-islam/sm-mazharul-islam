@@ -109,6 +109,40 @@ Passionate Web Developer focused on building modern, responsive, and user-friend
 
 ✨ Always excited to connect, collaborate, and learn new technologies.
 
+
+<div align="center">
+
+
+
+<div align="center">
+
+╭──────────────────────────────────────────────╮
+
+### 🚀 Daily Developer Reminder
+
+### ✨ *"Don't compare your Chapter 1 to someone else's Chapter 20."*
+
+Every bug you fix, every project you complete, and every technology you learn is progress.
+
+Growth in software development is not about being perfect—it's about becoming better than you were yesterday.
+
+╰──────────────────────────────────────────────╯
+
+</div>
+
+
+</div>
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Learn-BLUE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learn-Build-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build-Improve-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Improve-Repeat-red?style=for-the-badge" />
+</p>
+
+
 </div>
 
 
