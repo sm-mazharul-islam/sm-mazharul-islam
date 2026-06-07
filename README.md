@@ -124,7 +124,7 @@ Passionate Web Developer focused on building modern, responsive, and user-friend
 
 Every bug you fix, every project you complete, and every technology you learn is progress.
 
-Growth in software development is not about being perfect—it's about becoming better than you were yesterday.
+Growth in software development is not about being perfect; it's about becoming better than you were yesterday.
 
 ╰──────────────────────────────────────────────╯
 
