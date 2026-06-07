@@ -19,24 +19,27 @@
 
 
 
-<h1 align="center">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&pause=1000&color=4adedd&lines=Hi+There!+👋;+I'm+S.M+Mazharul+Islam"/>
     
-</h1>
+</div>
 
 <br/>
 
  
-<h2 align="left">🚀 About Me</h2>
+<h2 align="left">👨‍💻 Web Developer</h2>
 
-<ul>
-  <li>💻 Passionate about modern Web Development</li>
-  <li>🌱 Currently learning JavaScript, Next.js & Backend Development</li>
-  <li>🤝 Open to collaboration on GitHub projects</li>
-  <li>⚡ Focused on responsive UI and scalable applications</li>
-  <li>📫 Email: <b>smmazharulislam26@gmail.com</b></li>
-</ul>
+Passionate Web Developer focused on building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into functional digital experiences and continuously improving my skills through real-world projects and learning new technologies.
 
+🚀 Key Skills & Highlights
+
+- Building responsive and mobile-friendly websites
+- Responsive and Mobile-Friendly Web Design
+- REST API Integration and Data Handling
+- Git and GitHub Version Control
+- Problem-Solving and Debugging Skills
+- Strong willingness to learn new technologies
+- REST API integration and data handling
 
 <br/>
 
