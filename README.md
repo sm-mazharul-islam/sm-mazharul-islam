@@ -20,14 +20,14 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&pause=1000&color=4adedd&lines=Hi+There!+👋;+I'm+S.M+Mazharul+Islam"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=38&pause=1500&color=4ADEDD&center=true&vCenter=true&width=1000&lines=Building+Things+for+the+Web+🌐;Open+Source+Enthusiast+🚀;MERN+Stack+Developer+💻" alt="Typing SVG" />
     
 </div>
 
 <br/>
 
  
-<h2 align="left">👨‍💻 Web Developer</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 Passionate Web Developer focused on building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into functional digital experiences and continuously improving my skills through real-world projects and learning new technologies.
 
@@ -74,11 +74,11 @@ Passionate Web Developer focused on building modern, responsive, and user-friend
 <img src="https://github-profile-metrics-two.vercel.app/api/graph?v=1.0.2" height="200"/> -->
 <div align="center">
   <p align="center">
-    <img src="https://github-profile-metrics-two.vercel.app/api/stats?v=2.0.1" height="200" />
     <img src="https://github-profile-metrics-two.vercel.app/api/streak?v=2.0.1" height="200" />
+     <img src="https://github-profile-metrics-two.vercel.app/api/langs?v=2.0.1" height="200" />
+
   </p>
   <p align="center">
-    <img src="https://github-profile-metrics-two.vercel.app/api/langs?v=2.0.1" height="200" />
     <img src="https://github-profile-metrics-two.vercel.app/api/graph?v=2.0.1" width="400" />
   </p>
 </div>
