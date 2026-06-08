@@ -20,8 +20,11 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=38&pause=1500&color=4ADEDD&center=true&vCenter=true&width=1000&lines=Building+Things+for+the+Web+🌐;Open+Source+Enthusiast+🚀;MERN+Stack+Developer+💻" alt="Typing SVG" />
-    
+  <img
+    width="100%"
+    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=38&pause=1500&color=4ADEDD&center=true&vCenter=true&width=1000&lines=Building+Things+for+the+Web+🌐;Open+Source+Enthusiast+🚀;MERN+Stack+Developer+💻"
+    alt="Typing SVG"
+  />
 </div>
 
 <br/>
