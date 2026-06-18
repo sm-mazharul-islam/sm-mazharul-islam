@@ -81,10 +81,10 @@ Passionate Web Developer focused on building modern, responsive, and user-friend
      <img src="https://github-profile-metrics-two.vercel.app/api/langs?v=2.0.1" height="200" />
 
   </p>
-  <p align="center">
-    <img src="https://github-profile-metrics-two.vercel.app/api/graph?v=2.0.1" width="400" />
-  </p>
 </div>
+  <p align="center">
+    <img src="https://github-profile-metrics-two.vercel.app/api/graph?v=2.0.1" width="500" />
+  </p>
 
  
 
