@@ -47,7 +47,6 @@ Passionate Web Developer focused on building modern, responsive, and user-friend
 <br/>
 
 
-<h3 align="left"> 🚀 Languages and Tools:</h3>
 
 
 
