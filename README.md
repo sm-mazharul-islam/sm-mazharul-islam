@@ -145,13 +145,13 @@ Passionate Web Developer focused on building modern, responsive, and user-friend
 
 <div align="center">
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:smmazharulislam26@gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sm-mazharul-islam)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sm-mazharul-islam-masum/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smmazharulislam26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sm-mazharul-islam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sm-mazharul-islam-masum/)
 
 </div>
 
-
+## 💡 Dev Quote
 
 <div align="center">
 
@@ -162,26 +162,11 @@ Passionate Web Developer focused on building modern, responsive, and user-friend
 <div align="center">
 
 
-
-<div align="center">
-
-╭──────────────────────────────────────────────╮
-
-### 🚀 Daily Developer Reminder
-
-### ✨ *"Don't compare your Chapter 1 to someone else's Chapter 20."*
-
-Every bug you fix, every project you complete, and every technology you learn is progress.
-
-Growth in software development is not about being perfect; it's about becoming better than you were yesterday.
-
-╰──────────────────────────────────────────────╯
-
 </div>
 
 
-</div>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
 
 <p align="center">
