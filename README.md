@@ -123,7 +123,6 @@ Passionate Web Developer focused on building modern, responsive, and user-friend
 <div align="center">
   <p align="center">
     <img src="https://github-profile-metrics-two.vercel.app/api/streak?v=2.0.1" height="200" />
-     <img src="https://github-profile-metrics-two.vercel.app/api/langs?v=2.0.1" height="200" />
 
   </p>
 </div>
